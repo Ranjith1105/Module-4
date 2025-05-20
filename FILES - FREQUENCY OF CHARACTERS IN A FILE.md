@@ -11,12 +11,19 @@ To write a Python program that merges the content of two files into a third file
 ### ALGORITHM
 
 1. Begin the program.
+   
 2.Open the first file and read its contents.
+
 3.Open the second file and read its contents.
+
 4.Create a third file where the contents of both files will be written.
+
 5.Write the contents of the first file to the third file.
+
 6.Write the contents of the second file to the third file.
+
 7.Close all files.
+
 8.End the program.
 
 ---
