@@ -11,16 +11,27 @@ To write a Python program using a class to perform multiplication and floor divi
 ### ALGORITHM
 
 1. Begin the program.
+   
 2.Define a class named CSE.
+
 3.Create a method setvalues() to set the values of a and b.
+
 4.Define a method mul() to perform multiplication of a and b.
+
 5.Define a method div() to perform floor division of a by b.
+
 6.Use a loop to present a menu with choices:
+
       1 → multiplication
+      
       2 → floor division
+      
       0 → exit
-any other input → "Invalid choice"
+      
+      any other input → "Invalid choice"
+
 7.Execute the method based on user choice using if, elif, and else.
+
 8.End the program. 
 
 
