@@ -11,9 +11,13 @@ To write a Python program that raises a user-defined exception in a guessing num
 ### ALGORITHM
 
 1. Define a custom exception class named IncorrectGuessError which will be raised for wrong guesses.
+   
 2.Prompt the user to guess a number.
+
 3.If the user guesses correctly (i.e., the number 1), congratulate the user.
+
 4.If the user guesses incorrectly, raise the IncorrectGuessError and display an error message.
+
 5.End the program.
 
 ---
