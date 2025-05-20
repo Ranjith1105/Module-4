@@ -11,14 +11,19 @@ To write a Python program to take the radius from the user and find the area of 
 ### ALGORITHM
 
 1.Begin the program.
+
 2.Create a class named Circle.
+
 3.Define a method calculate_area() inside the class to compute the area of the circle using the formula:
            
            Area=𝜋 × (radius)^2
 
 4.In the main program, take the radius input from the user.
+
 5.Create an object of the Circle class and call the calculate_area() method to get the area.
+
 6.Display the area of the circle.
+
 7.End the program.
 
 ---
