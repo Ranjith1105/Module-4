@@ -11,9 +11,13 @@ To write a Python program that sorts the keys and values in alphabetical order b
 ### ALGORITHM
 
 1. Begin the program.
+   
 2.Define a dictionary with keys and corresponding values.
+
 3. Sort the dictionary by values in alphabetical order using the sorted() function.
+   
 4.Display the sorted dictionary.
+
 5.End the program.
 
 ---
